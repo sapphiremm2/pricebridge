@@ -1,6 +1,6 @@
 # MM2 Price Monitor
 
-Monitors StarPets.gg prices and sends Discord approval requests when your store needs a price update. Approve in one click — the price updates automatically.
+Monitors competitors's store prices and sends Discord approval requests when your store needs a price update. Approve in one click — the price updates automatically.
 
 Works with **Shopify** stores or any **custom/fullstack** backend.
 
